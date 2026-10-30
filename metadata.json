@@ -1,0 +1,6 @@
+{
+  "name": "I'm Sorry Sayani",
+  "description": "A heartfelt and adorable interactive apology app for Sayani with cute illustrations, little heartfelt notes, interactive QR invite, and a sincere message.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
